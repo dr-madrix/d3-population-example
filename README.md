@@ -2,7 +2,7 @@
 
 ## Project demo
 
-Esta viz tiene un demo aquí merito: adx-populationviz-0775a2.netlify.app
+Esta viz tiene un demo aquí merito: https://adx-populationviz-0775a2.netlify.app/
 
 ## Project setup
 ```
